@@ -1,11 +1,12 @@
 # Cosmic Echoes - Space Events in Alternate Realities
 
-A beautiful, interactive web application that showcases real astronomical events from history alongside creative alternate reality versions of what might have been. Built with React, TypeScript, Tailwind CSS, and Framer Motion.
+Explore actual astronomical events that occurred on this date in the future with this futuristic web application that makes space history come to life. Then, enter a different timeline to see what might have been. Built with React, TypeScript, Tailwind CSS, and Framer Motion.
 
 ## 🌌 Features
 
 - **Real-time Date Detection**: Automatically detects the current date and displays relevant space events
 - **Historical Space Events**: Curated collection of significant astronomical events throughout history
+- **AI Story Generation**: Click to generate alternate reality versions of events using OpenAI
 - **Alternate Reality Toggle**: Interactive button to switch between real events and creative "what if" scenarios
 - **Immersive Space Theme**: Beautiful starfield animation, cosmic gradients, and space-inspired design
 - **Responsive Design**: Fully responsive layout optimized for desktop, tablet, and mobile devices
@@ -141,21 +142,8 @@ This project is open source and available under the MIT License.
 
 Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
 
-## 🚀 Deployment
-
-This application can be deployed to various platforms:
-
-- **Vercel**: Connect your repository and deploy automatically
-- **Netlify**: Drag and drop the `dist` folder or connect via Git
-- **GitHub Pages**: Use GitHub Actions for automatic deployment
-- **AWS S3**: Upload static files to S3 bucket with CloudFront
-
-### Vercel Deployment (Recommended)
-
-1. Push your code to GitHub
-2. Connect your repository to Vercel
-3. Vercel will automatically detect the Vite configuration
-4. Your site will be deployed with automatic updates on new commits
+🛰️ Made with 💖 by Sujal Arora
+for the AstralWeb Innovate Challenge 2025
 
 ---
 
